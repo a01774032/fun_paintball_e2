@@ -18,7 +18,7 @@
     ## Project: Fun Paintball
     This project is for the Tecnológico de Monterrey class "Pensamiento computacional orientado a objetos (Gpo 302)"
 
-    ## Team Members:
+    ## Team 2 Members:
     - Daniel Eleazar Fragoso Reyes
     - Francesca Renata García Romero
     - Luis De los Santos Cadena
