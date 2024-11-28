@@ -80,6 +80,8 @@ Follow the instructions on the official Docker website to download and install D
     docker-compose --version
     ```
 
+    **Note:** In recent installations, you can also use `docker compose` instead of `docker-compose`.
+
 ### Step 3: Build and Run the Game
 
 1. Navigate to the directory containing the `docker-compose.yml` file.
@@ -88,6 +90,8 @@ Follow the instructions on the official Docker website to download and install D
     ```sh
     docker-compose up -d --build
     ```
+
+    **Note:** You can also use `docker compose up -d --build` in recent installations.
 
 3. Once the containers are up and running, execute the game inside the `juego_container`:
     ```sh
@@ -103,10 +107,14 @@ Follow the instructions on the official Docker website to download and install D
     docker-compose down
     ```
 
+    **Note:** You can also use `docker compose down` in recent installations.
+
 - To view the logs of the running containers:
     ```sh
     docker-compose logs -f
     ```
+
+    **Note:** You can also use `docker compose logs -f` in recent installations.
 
 - To list all running Docker containers:
     ```sh
