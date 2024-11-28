@@ -1,0 +1,12 @@
+services:
+  juego:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      platforms:
+        - linux/amd64
+        - linux/arm64
+    image: my-juego-app:latest
+    container_name: juego_container
+    stdin_open: true
+    tty: true
