@@ -100,6 +100,8 @@ Follow the instructions on the official Docker website to download and install D
 
 4. Follow the on-screen instructions to play the game.
 
+5. If you are running on a macOS environment, use the `compile_and_run.sh` script to execute the game.
+
 ### Additional Commands
 
 - To stop the Docker containers:
